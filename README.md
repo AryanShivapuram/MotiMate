@@ -40,7 +40,7 @@ You could use my existing API, but it's recommended and requested to use your ow
 
 ### Running Project
 
-- In the terminal, change the porject's folder is not.
+- In the terminal, change the directory to project's folder if not.
   ```
   cd MotiMate/
   ```
