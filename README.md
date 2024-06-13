@@ -1,23 +1,34 @@
-# Getting Started with Create React App
+# MotiMate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+MotiMate is the ultimate motivational chatbot designed to spread positivity and provide personalized responses powered by Google's Gemini API. Whether you choose the default mode or one of the five specialized modes, the goal remains singular: fostering a peaceful mind.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Multiple Modes: Choose from default or specialized modes like Compassion, Happy, Motivational, Serenity, and Learning.
+- Real-time Interaction and responses to uplift your spirits.
+- Easy-to-use chat interface for seamless communication.
+- Harnesses advanced Gemini AI for intelligent and empathetic responses.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React.js
+- axios (API requests)
+- Node.js
+- HTML/CSS/JavaScript
+  
+### Setup
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Ensure Node.js is installed on your deviece.
+- Clone the Project => in your terminal, type
+  ```
+  git clone https://github.com/AryanShivapuram/MotiMate.git
+  cd MotiMate/
+  ```
 
-### `npm test`
+### Set up the Gemini API
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Getting API KEY**
+  - `Go to [Gemini API]([https://www.example.com](https://aistudio.google.com/app/apikey))`
 
 ### `npm run build`
 
