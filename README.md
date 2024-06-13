@@ -28,6 +28,8 @@ MotiMate is the ultimate motivational chatbot designed to spread positivity and 
   ```
 
 ### Set up the Gemini API
+You could use my existing API, but it's recommended and requested to use your own [API key](https://aistudio.google.com/app/apikey) for security and tracking purposes.
+
 
 - **Getting API KEY**
   - Go to [Gemini API](https://aistudio.google.com/app/apikey) to get your API key.
