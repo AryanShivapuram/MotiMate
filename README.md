@@ -58,5 +58,7 @@ You could use my existing API, but it's recommended and requested to use your ow
 ### Made By Aryan Shivapuram as a way to make peoples lives better, happier and spread positivity. 
 
 **Contact me through:**
--a.shivapuram@iitg.ac.in
--shivapuramaryan@gmail.com
+
+ a.shivapuram@iitg.ac.in
+ 
+ shivapuramaryan@gmail.com
