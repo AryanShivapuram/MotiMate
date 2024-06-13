@@ -19,7 +19,8 @@ MotiMate is the ultimate motivational chatbot designed to spread positivity and 
 ### Setup
 
 - Ensure Node.js is installed on your deviece.
-- Clone the Project => in your terminal, type
+- Clone the Project in your terminal. Type:
+  
   ```
   git clone https://github.com/AryanShivapuram/MotiMate.git
   cd MotiMate/
@@ -28,7 +29,8 @@ MotiMate is the ultimate motivational chatbot designed to spread positivity and 
 ### Set up the Gemini API
 
 - **Getting API KEY**
-  - `Go to [Gemini API]([https://www.example.com](https://aistudio.google.com/app/apikey))`
+  - Go to [Gemini API](https://aistudio.google.com/app/apikey) to get your API key.
+
 
 ### `npm run build`
 
