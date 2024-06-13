@@ -30,6 +30,8 @@ MotiMate is the ultimate motivational chatbot designed to spread positivity and 
 
 - **Getting API KEY**
   - Go to [Gemini API](https://aistudio.google.com/app/apikey) to get your API key.
+  - Click on Create API Key.
+  - Select Generative Language Client in projects. Cpoy the API Key and in the project's folder, go to `.env` in the root directory and paste your API Key in the place given
 
 
 ### `npm run build`
