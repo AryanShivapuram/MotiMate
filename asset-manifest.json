@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MotiMate/static/css/main.407966db.css",
+    "main.js": "/MotiMate/static/js/main.cf1a6665.js",
+    "static/media/vecteezy_holographic-gradient-illustration-abstract-background-in_13749585.jpg": "/MotiMate/static/media/vecteezy_holographic-gradient-illustration-abstract-background-in_13749585.e7942493080b9e5eb980.jpg",
+    "index.html": "/MotiMate/index.html",
+    "main.407966db.css.map": "/MotiMate/static/css/main.407966db.css.map",
+    "main.cf1a6665.js.map": "/MotiMate/static/js/main.cf1a6665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407966db.css",
+    "static/js/main.cf1a6665.js"
+  ]
+}
