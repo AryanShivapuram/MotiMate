@@ -189,3 +189,48 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .side {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .chat-interface {
+    flex: 0 0 90%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .features {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  }
+
+  .company-name {
+    font-size: 32px;
+  }
+
+  .company-description {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .input-area input {
+    height: 30px;
+  }
+
+  .input-area button {
+    height: 30px;
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+
+  .button {
+    font-size: 12px;
+    padding: 8px;
+  }
+}
